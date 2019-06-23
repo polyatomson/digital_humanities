@@ -4,5 +4,4 @@
 
 ### [Результаты работы с инструментом Google Ngrams](https://polyatomson.github.io/digital_humanities/description_ngrams1.html)
 
-### [Презентация для доклада по статье Bernstein et al. 2015]
-(https://polyatomson.github.io/digital_humanities/report_presentation.pdf)
+### [Презентация для доклада по статье Bernstein et al. 2015](https://polyatomson.github.io/digital_humanities/report_presentation.pdf)
