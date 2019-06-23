@@ -2,7 +2,7 @@
 
 ### [Граф связей между персонажами пьесы Ф. Дюренматта «Визит старой дамы»](https://polyatomson.github.io/digital_humanities/network/)
 
-[Комментарий к графу](https://polyatomson.github.io/digital_humanities/report_presentation.pdf)
+[Комментарий к графу](https://polyatomson.github.io/digital_humanities/graph_description.html)
 
 ### [Результаты работы с инструментом Google Ngrams](https://polyatomson.github.io/digital_humanities/description_ngrams1.html)
 
